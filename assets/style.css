@@ -11,8 +11,9 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: white;
     color: #3aa1b3;
-    width: 100%;
+    width: 150%;
     flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 header h1 {
@@ -47,12 +48,13 @@ a {
 
 .hello-world{
 height: 800px;
-width: 100%;
+width: 150%;
 margin-bottom: 25px;
 background-size: cover;
 background-position: center;
 display: flex;
 flex-wrap: wrap;
+justify-content: flex-end;
 }
 
 
@@ -61,7 +63,7 @@ flex-wrap: wrap;
 }
 
 #about-me h2{
-    margin-left: 48%;
+    margin-left: 69%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -69,7 +71,7 @@ flex-wrap: wrap;
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    margin-left: 45%;
+    margin-left: 65%;
     margin-top: 30px;
 }
 
@@ -80,14 +82,14 @@ flex-wrap: wrap;
 font-size: 20px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 width: 60%;
-margin-inline: 25%;
+margin-inline: 50%;
 }
 
 #work h2{
     color: #fff;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 align-items: center;
-margin-left: 49.5%;
+margin-left: 69%;
 padding-top: 50px;
 }
 
@@ -97,7 +99,7 @@ padding-top: 50px;
     grid-template-rows: 100px 200px 200px;
     gap:10px;
     align-items: center;
-    margin-left: 30%;
+    margin-left: 50%;
     padding-top: 50px;
     flex-wrap: wrap;
     
@@ -108,7 +110,7 @@ padding-top: 50px;
     width: 400px;
     border: 5px solid lightgray;
     padding: 50px;
-    margin: 220px;
+    margin-left: 12%;
     background-color: white;
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -124,7 +126,7 @@ padding-top: 50px;
 }
 
 #contact-me{
-    color:#3aa1b3 ;
+    color: #3aa1b3 ;
     padding-top: 50px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -149,6 +151,7 @@ padding-top: 50px;
     padding-left: 60%;
     text-wrap: nowrap;
     font-size: 18px;
+    
 }
 
 @media screen and (max-width: 768px) {
