@@ -33,7 +33,8 @@ After building my basic starter code, I started working on other elements of the
 
 ## Conclusion
 
-    ![porfolio-screenshot](https://github.com/DiamondSClements/portfolio/assets/143464442/88dd90c3-51f0-434a-809b-8bd70fe20ab5)
+![porfolio-screenshot](https://github.com/DiamondSClements/portfolio/assets/143464442/41eaa8ed-83a7-46e3-847b-6978d2e693ce)
+
 
 
 
