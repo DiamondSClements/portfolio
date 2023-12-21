@@ -9,8 +9,10 @@ This project consisted of me designing my portfolio that showcased different pro
 ## Getting Started
 
 1. Built wireframe.
-2. Created new folder and files for "Portfolio".
-3. Linked files in VS Code and Github.
+     ![portfolio-wireframe](https://github.com/DiamondSClements/portfolio/assets/143464442/18640203-4165-4286-afb2-6290abd80ee1)
+
+3. Created new folder and files for "Portfolio".
+4. Linked files in VS Code and Github.
 2. Since this was an assignment that didn't consist of any starter code, I started building my page with a basic html boilerplate setup.
 
 ## Executing
@@ -28,6 +30,12 @@ After building my basic starter code, I started working on other elements of the
 * Contact Me: Includes my phone number, email address, and a link to my Github page. I made a link for LinkedIn but since I don't have a page yet, it directs you to the "work in progress" page.
 
 Once I constructed what I needed for my html, I started working in CSS. Assigned different elements, classes, and id's with attributes that defined sizing, color, font-style, etc. Since this is a webpage, I had to think about what it would like for various of media like cellphones vs. laptops. I performed this task by adding media queries to my css. It took a lot of back and forth to see what elements I needed to change depending on the screen size.
+
+## Conclusion
+
+![porfolio-screenshot](https://github.com/DiamondSClements/portfolio/assets/143464442/41eaa8ed-83a7-46e3-847b-6978d2e693ce)
+
+
 
 
 
