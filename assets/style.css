@@ -178,7 +178,9 @@ padding-top: 50px;
         margin-left: 60%;
       }
 
-      
+      .contact-me li{
+        width: 20px;
+      }
 }
 
 @media screen and (max-width: 992px) {
